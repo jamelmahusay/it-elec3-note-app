@@ -1,1 +1,1 @@
-[{"id":"01","title":"Mahusay Jamel","body":"Web System Midterm Project"}]
+[{"id":"01","title":"Jamel Mahusay","body":"Midterm Project in Web System"}]
